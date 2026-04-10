@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Teddy Fuagah 
+Am a Web-dev | Web-desinger | iT Ethusiast
 
 <!--
 **TeddyFuagah/TeddyFuagah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
